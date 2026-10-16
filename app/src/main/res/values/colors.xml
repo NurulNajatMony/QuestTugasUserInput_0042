@@ -13,5 +13,5 @@
     <color name="text_input">#1C1C1E</color>
     <color name="hint_input">#6E6E73</color>
     <color name="border_field">#AEAEB2</color>
-
+    <color name="box_bg">#FFFFFF</color>
 </resources>
