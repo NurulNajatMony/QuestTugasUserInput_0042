@@ -14,4 +14,5 @@
     <color name="hint_input">#6E6E73</color>
     <color name="border_field">#AEAEB2</color>
     <color name="box_bg">#FFFFFF</color>
+    <color name="scaffold_bg">#120B1E</color>
 </resources>
