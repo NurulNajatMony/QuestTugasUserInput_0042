@@ -14,4 +14,10 @@
     <dimen name="btn_height">48dp</dimen>
     <dimen name="btn_corner">12dp</dimen>
     <dimen name="icon_size">22dp</dimen>
+
+    <dimen name="font_title">24sp</dimen>
+    <dimen name="font_subtitle">12sp</dimen>
+    <dimen name="font_label">14sp</dimen>
+    <dimen name="font_input">14sp</dimen>
+    <dimen name="font_btn">16sp</dimen>
 </resources>
