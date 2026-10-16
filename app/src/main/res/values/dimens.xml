@@ -4,4 +4,9 @@
     <dimen name="box_floating_top">180dp</dimen>
     <dimen name="box_corner_radius">32dp</dimen>
     <dimen name="box_elevation">10dp</dimen>
+
+    <dimen name="padding_screen">24dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">14dp</dimen>
+    <dimen name="spacing_large">22dp</dimen>
 </resources>
