@@ -9,4 +9,9 @@
     <dimen name="spacing_small">8dp</dimen>
     <dimen name="spacing_medium">14dp</dimen>
     <dimen name="spacing_large">22dp</dimen>
+
+    <dimen name="corner_field">14dp</dimen>
+    <dimen name="btn_height">48dp</dimen>
+    <dimen name="btn_corner">12dp</dimen>
+    <dimen name="icon_size">22dp</dimen>
 </resources>
